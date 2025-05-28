@@ -1,0 +1,63 @@
+body {
+  background-color: #c8d3f9; /* sanftes Pastell-Lavendel */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #222;
+  padding: 20px;
+}
+
+
+h1 {
+  color: #9faee8; /* kräftiges Lila */
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.bildreihe {
+  display: flex;
+  justify-content: center;
+  gap. 20px
+}
+
+.bildreihe img {
+  width:300px;
+  height: auto;
+  border-radius: 12x;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.bildreihe {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.bildreihe {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.bild-container {
+  text-align: center;
+}
+
+.bild-container img {
+  width: 300px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.bild-container p {
+  margin-top: 10px;
+  font-size: 16px;
+  color: #666;
+}
